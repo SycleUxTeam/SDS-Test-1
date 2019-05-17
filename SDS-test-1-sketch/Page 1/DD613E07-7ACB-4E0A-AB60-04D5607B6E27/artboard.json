@@ -1,0 +1,193 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DD613E07-7ACB-4E0A-AB60-04D5607B6E27",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 368,
+    "width": 413,
+    "x": 86,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "645C7A7C-47B9-421E-86DD-7BF9C8586A0C"
+    },
+    {
+      "class": "rectangle",
+      "id": "217CB162-B0CE-4CA2-AE2A-1148041BFC38"
+    },
+    {
+      "class": "rectangle",
+      "id": "613A87D0-DCE2-41F1-849E-538028C22022"
+    },
+    {
+      "class": "rectangle",
+      "id": "8BC4B41E-F7D7-40DF-AA2C-B2BBBA8B8A44"
+    },
+    {
+      "class": "rectangle",
+      "id": "7E04EB23-9407-439D-893B-68E72A22334C"
+    },
+    {
+      "class": "rectangle",
+      "id": "D7FE7E29-FC70-465E-9A03-F35C95AF9685"
+    },
+    {
+      "class": "rectangle",
+      "id": "67E9DF64-A7DA-436B-86C5-0FF5C3696954"
+    },
+    {
+      "class": "rectangle",
+      "id": "D2443C4B-059F-4BEF-BDE6-C488775C5AA2"
+    },
+    {
+      "class": "rectangle",
+      "id": "71DB5B12-EB28-42D6-90C6-1C7641966360"
+    },
+    {
+      "class": "rectangle",
+      "id": "3442E36F-328D-41AA-8789-0BB34DED71E0"
+    },
+    {
+      "class": "rectangle",
+      "id": "E45640EC-B252-47C8-9AC5-D65480E8AEE9"
+    },
+    {
+      "class": "rectangle",
+      "id": "FDA9E982-AE17-4B4B-B241-11A7931C1508"
+    },
+    {
+      "class": "rectangle",
+      "id": "210E9062-E187-4CDB-A938-5E576ABB727A"
+    },
+    {
+      "class": "rectangle",
+      "id": "624242F3-3BEF-49D2-B86C-7712CFBEF166"
+    },
+    {
+      "class": "rectangle",
+      "id": "9F10F7AA-30D5-4AB3-8A50-B2764F305E69"
+    },
+    {
+      "class": "rectangle",
+      "id": "083A1ABA-58AE-4544-B1D0-24A28EED9D3F"
+    },
+    {
+      "class": "rectangle",
+      "id": "3185B2BC-9FE9-47B1-9E0F-CA6A6D6A240C"
+    },
+    {
+      "class": "rectangle",
+      "id": "FDE5A96C-E312-40A5-9FCD-ACAC0953D76D"
+    },
+    {
+      "class": "rectangle",
+      "id": "F0D97735-45D1-4D45-9547-26F2CEC71A1A"
+    },
+    {
+      "class": "rectangle",
+      "id": "36E9F4A4-4813-4368-B4C2-890DFC98D99E"
+    },
+    {
+      "class": "rectangle",
+      "id": "FA85B9D3-1E5B-45C9-8501-08BFE3748169"
+    },
+    {
+      "class": "rectangle",
+      "id": "F2E919E6-E77C-444C-BF70-0E7983063A0F"
+    },
+    {
+      "class": "rectangle",
+      "id": "5A9EFED0-734C-4DD3-83A2-101E85640ED4"
+    },
+    {
+      "class": "rectangle",
+      "id": "41A2E26A-8A42-42E7-A793-A81E2EF6C980"
+    },
+    {
+      "class": "rectangle",
+      "id": "B6441F63-5BBC-4E00-8795-A7A0E7AE0BEA"
+    },
+    {
+      "class": "rectangle",
+      "id": "C83C2CA4-3758-41E0-BF34-E27D2FA07EEB"
+    },
+    {
+      "class": "rectangle",
+      "id": "E42DC709-2BA9-4C49-B6D5-E232FA192C26"
+    },
+    {
+      "class": "rectangle",
+      "id": "435937C1-6FFB-487E-AF77-F5A15DF415B0"
+    },
+    {
+      "class": "rectangle",
+      "id": "1DB2A6B8-9846-4CDB-8FA8-D76334DE3FDF"
+    },
+    {
+      "class": "rectangle",
+      "id": "1C9030F8-D424-41FD-A79E-07D44B66E5F8"
+    }
+  ],
+  "name": "Test",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
